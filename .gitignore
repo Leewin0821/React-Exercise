@@ -1,0 +1,5 @@
+# Mac #
+.DS_Store
+
+# Npm build node_modules #
+assets/node_modules
